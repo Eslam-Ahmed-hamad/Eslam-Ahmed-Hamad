@@ -83,23 +83,9 @@ I'm the founder of **EH Design**, a multi-service creative tech agency. I combin
 
 ---
 
-## 🗂️ GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eslamhamd&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eslamhamd&theme=dark" width="48%" />
-</p>
 
----
 
-## 📬 Let’s Connect!
-
-- 🌍 Website: [ehdesign.online](https://ehdesign.online)
-- 📧 Email: info@ehdesign.online
-- 💼 LinkedIn: [linkedin.com/in/eslamhamd](https://linkedin.com/in/eslamhamd)
-- 🐙 GitHub: [github.com/eslamhamd](https://github.com/eslamhamd)
-
----
 
 > "The best way to predict the future is to build it."
 ```

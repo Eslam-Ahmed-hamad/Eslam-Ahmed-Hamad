@@ -68,7 +68,7 @@ I deliver real, production-grade systems for businesses.
 **ASP.NET Core 8 + EF Core + Next.js 15 + SQL Server**  
 Multi-module ERP: Members, Subscriptions, Attendance QR, POS, Inventory, Finance, Trainers, Classes, Reports.
 
-🔗 GitHub: https://github.com/eslamhamd/eh-gym-erp
+🔗 GitHub: 
 
 ---
 
@@ -76,14 +76,14 @@ Multi-module ERP: Members, Subscriptions, Attendance QR, POS, Inventory, Finance
 Inventory + POS + Products + Roles  
 Security Patch v1.1 Ready.
 
-🔗 GitHub: https://github.com/eslamhamd/business-os-store
+🔗 GitHub: 
 
 ---
 
 ### 🧱 EH ERP – Web ERP System (v1)
 Authentication, Roles, Products, Inventory, Warehouses.
 
-🔗 GitHub: https://github.com/eslamhamd/eh-erp
+🔗 GitHub: 
 
 ---
 

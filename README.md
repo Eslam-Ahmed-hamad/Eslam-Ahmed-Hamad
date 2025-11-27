@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Eslam Hamd</h1>
+<h1 align="center">Hi there 👋, I'm Eslam Hamad</h1>
 <h3 align="center">
 Founder & CEO of EH DESIGN ICT • Software Engineer • ERP Systems Developer • AI Automation Engineer
 </h3>

@@ -4,10 +4,10 @@ Founder & CEO of EH DESIGN ICT • Software Engineer • ERP Systems Developer �
 </h3>
 
 <p align="center">
-  <a href="https://eslamahmedhamad.com" target="_blank">🌐 Website</a> •
-  <a href="">📧 Email</a> •
-  <a href="" target="_blank">💼 LinkedIn</a> •
-  <a href="" target="_blank">🐙 GitHub</a>
+  <a href="https://eslamahmedhamad.com" target="_blank">Website</a> •
+  <a href="">Email</a> •
+  <a href="" target="_blank">LinkedIn</a> •
+  <a href="" target="_blank">GitHub</a>
 </p>
 
 ---
